@@ -25,8 +25,9 @@ Este projeto é um exemplo de como integrar React com APIs, Tailwind CSS e Axios
 
 Se quiser algo mais detalhado ou específico, me avise! 😊🚀
 
-![localhost_5173_](https://github.com/user-attachments/assets/c5a5d12c-04c6-48c5-ba2d-625d6a7751bd)
+![tela inicial](https://github.com/user-attachments/assets/fd795ab9-f1b0-4a89-bc3a-6beae6903a4c)
 
 ![Botão funcionando](https://github.com/user-attachments/assets/afdb914a-60be-43cf-a46a-d1ab83816970)
 
-![cambio selecionado ](https://github.com/user-attachments/assets/361ebfd4-1813-40e7-a244-6da9d8934d72)
+![cambio selecionado](https://github.com/user-attachments/assets/9924923b-6dbc-49e4-83ab-6e6069a0ee93)
+
